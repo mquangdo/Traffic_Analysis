@@ -1,5 +1,6 @@
 # Traffic Analysis - A simple traffic analysis application using Ultralytics, Supervision.
 
+https://github.com/user-attachments/assets/c404fbb3-1bc5-4de0-91e1-2cff79f312ad
 # Installation
 
 ## Clone repository
