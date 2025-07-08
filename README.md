@@ -19,4 +19,6 @@ Then open GitBash, use the following command:
   cd Traffic_Analysis
   pip install -r requirements.txt
 ```
-## Download vehicle detection model [here](https://drive.google.com/uc?id=1y-IfToCjRXa3ZdC1JpnKRopC7mcQW-5z)
+## Download vehicle detection model 
+You can down load the vehicle detection model [here](https://drive.google.com/uc?id=1y-IfToCjRXa3ZdC1JpnKRopC7mcQW-5z).
+Specify the path to your video and run the project.
