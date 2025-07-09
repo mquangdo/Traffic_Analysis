@@ -6,6 +6,7 @@ from tqdm import tqdm
 from ultralytics import YOLO
 
 import supervision as sv
+from settings import *
 
 class VideoProcessor:
     def __init__(self,
